@@ -1,0 +1,22 @@
+body{
+    background: black;
+}
+#car{
+    background: gray;
+    width: 25rem;
+    height: 25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+}
+.dashboard{
+    background: rgb(233, 229, 229);
+    width: 20rem;
+    border: .4rem solid black;
+    border-radius: 1rem;
+}
+.settings{
+    margin-top: 2rem;
+}
